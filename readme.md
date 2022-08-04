@@ -22,4 +22,4 @@ It still uses the graph theory, but because we are able to remove most of the op
 
 You can find more technical info in the [Main.kt](./src/main/kotlin/Main.kt).
 
-It also make use of a bitset representation of the words, but that doesn't make much of a difference.
+It also makes use of a bitset representation of the words, but that doesn't make much of a difference.
